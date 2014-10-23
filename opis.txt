@@ -1,0 +1,14 @@
+LABIRYNT
+
+Gra, w której agent porusza się po labiryncie, z którego musi się wydostać. Plansza widoczna z "lotu ptaka", gracz widzi tylko częściowo otoczenie. 
+Kiedy dojdzie do pewnego etapu i rozwiązaniu głównej zagadki, będzie mógł przejść do ostatniej części labiryntu, która była do tej pory niewidoczna. 
+Agent reaguje na złożone komendy. Będą one wydawane w formie tekstowej. Jeśli nie będzie mógł którejś z nich wykonać to poinformuje o tym. 
+Będziemy musieli wtedy wydać kolejne odpowiednie polecenie.
+Agent na swej drodze pokonuje przeszkody i musi zebrać wszystkie przedmioty znajdujące się w labiryncie, by wygrać.
+
+
+
+
+
+
+Użyte technologie: Visual Studio (C++), SDL
